@@ -29,3 +29,8 @@ InputDecoration get inputDecoration => InputDecoration(
       focusedErrorBorder: border(borderColor: Colors.red),
       counterText: '',
     );
+
+// Navigator.push(
+//   context,
+//   MaterialPageRoute(builder: (context) => NextPage()),
+// );
